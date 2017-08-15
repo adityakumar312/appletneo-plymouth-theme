@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Appletneo
+Description=Dark Appletneo Theme
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/appletneo
+ScriptFile=/usr/share/plymouth/themes/appletneo/theme.script
